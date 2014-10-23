@@ -14,6 +14,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Tet test a 1 23");
 		System.out.println("test 2");
+		System.out.println("test 3");
 		
 	}
 
